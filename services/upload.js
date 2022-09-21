@@ -16,3 +16,5 @@ const upload = async (file) => {
             console.log("An error has occured", error);
         });
 };
+
+module.exports = upload;

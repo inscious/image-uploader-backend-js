@@ -30,4 +30,4 @@ const dataUri = (req) => {
     );
 };
 
-module.exports = (multerUploads, dataUri);
+module.exports = { multerUploads, dataUri };
