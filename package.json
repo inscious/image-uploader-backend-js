@@ -1,13 +1,12 @@
 {
   "name": "image-uploader-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "node/express backend for image uploader",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "type":"module",
-  "author": "",
+  "author": "Saul Cortes",
   "license": "ISC",
   "dependencies": {
     "cloudinary": "^1.32.0",
